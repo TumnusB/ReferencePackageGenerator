@@ -35,7 +35,7 @@ you can do this if you have Github Desktop or [git-scm](https://git-scm.com/down
 
 then run git clone https://github.com/MonkeyModdingTroop/ReferencePackageGenerator.git
 
-If you dont know how to use git you can just download the source as a .zip byt pressing code and then download zip as seen below
+If you dont know how to use git you can just download the source as a .zip by pressing code and then download zip as seen below
 
 ![Alt text](https://i.imgur.com/2iu6dGS.png "Download Zip")
 
